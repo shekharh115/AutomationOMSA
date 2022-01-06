@@ -1,0 +1,12 @@
+{
+"Individual" : "//*[@title='Individual']",
+"FName" : "//*[@formcontrolname='firstName']",
+"SName" : "//*[@formcontrolname='lastName']",
+"IDNum" : "//*[@formcontrolname='nationalId']",
+"Search" : "//*[@class='text']",
+"CreateCustomer" : "//*[@section='search-error']/a[1]",
+"SelectMale" : "//*[@value='male']",
+"Salutation" : "//*[@name='title']",
+"SelectMale" : "//*[@value='male']",
+"Continue" : "//*[@class='text']"
+}

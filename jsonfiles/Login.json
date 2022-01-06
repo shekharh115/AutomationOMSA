@@ -1,0 +1,10 @@
+{
+"Username" : "//*[@id='username']",
+"Password"  : "//*[@id='password']",
+"Login" : "//*[@id='login']",
+"StandaloneQuote" : "//*[@id='Standalone Quote']",
+"CreateNewQuote" : "//*[@id='CreateNewQuote']",
+"Investment" :"//*[@class = 'x-icon x-icon-lob x-icon-investment']",
+"Next" : "//*[@name = 'next']",
+"DOB" : "//*[@id='form-date-0']"
+}
